@@ -1,0 +1,3 @@
+/Users/mirunaalexandrescu/Desktop/kmeans/cmake-build-debug/CMakeFiles/kmeans.dir
+/Users/mirunaalexandrescu/Desktop/kmeans/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mirunaalexandrescu/Desktop/kmeans/cmake-build-debug/CMakeFiles/rebuild_cache.dir

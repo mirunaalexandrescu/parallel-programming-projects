@@ -1,0 +1,17 @@
+# Benchmark Image Composition
+# Core utilizzati:,8
+# Data:,2025-07-03 11:27:14
+
+Num_Immagini,Metodo,Tempo_Secondi,Speedup,Throughput_ImgSec
+50,Sequential,232.759,1.00,0.2
+50,Joblib,89.617,2.60,0.6
+50,Pool,67.372,3.45,0.7
+50,Processes,67.065,3.47,0.7
+100,Sequential,454.346,1.00,0.2
+100,Joblib,167.437,2.71,0.6
+100,Pool,120.999,3.75,0.8
+100,Processes,119.128,3.81,0.8
+500,Sequential,2298.005,1.00,0.2
+500,Joblib,949.529,2.42,0.5
+500,Pool,556.525,4.13,0.9
+500,Processes,571.465,4.02,0.9
